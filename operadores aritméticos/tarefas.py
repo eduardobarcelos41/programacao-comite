@@ -1,5 +1,5 @@
 # calculando o dobro do numero informado
-#numero_1 = int(input("informe um numero inteiro ->"))
+numero_1 = int(input("informe um numero inteiro ->"))
 #print("o dobro do numero informado é ->",numero_1 * 2)
 
 # calculando a area do quadrado 
