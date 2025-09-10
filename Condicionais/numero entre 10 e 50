@@ -1,0 +1,7 @@
+numero = int(input("informe um valor->"))
+
+if numero >= 10 and numero <= 50:
+    print("o numero informado está entre 10 e 50")
+
+else:
+    print("o numero informado não está entre 10 e 50")

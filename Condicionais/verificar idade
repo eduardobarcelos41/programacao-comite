@@ -1,0 +1,10 @@
+idade = int(input("informe uma idade->"))
+
+if idade >= 0 and idade <= 12:
+    print("você é criança!")
+elif idade >= 13 and idade <= 17:
+    print("você é adolescente!")
+elif idade > 17:
+    print("você é adulto!")
+else:
+    print("idade invalida")
