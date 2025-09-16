@@ -17,5 +17,3 @@ elif lado_1 != lado_2 != lado_3:
     print("triangulo escaleno")
 else:
     print("outro tipo")
-else:
-print("triangulo invalido")
